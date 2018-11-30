@@ -28,7 +28,7 @@
     "y": -939
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,10 @@
     {
       "class": "rectangle",
       "id": "7DAF713F-FB83-45C9-A41A-E43092E8F2BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "886400F2-CD23-484F-B62D-9DD409D7B85E"
     }
   ],
   "name": "Typography",
