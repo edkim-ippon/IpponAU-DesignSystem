@@ -36,9 +36,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "19633A33-DC20-441E-BF0F-1F3D05405925"
+    }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "1.0 Style",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
